@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BalazsParducz/SpringTab_Test_Backend/issues"
   },
-  "homepage": "https://github.com/BalazsParducz/SpringTab_Test_Backend#readme"
+  "homepage": "https://github.com/BalazsParducz/SpringTab_Test_Backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
