@@ -1,0 +1,19 @@
+{
+  "name": "springtab_test_backend",
+  "version": "1.0.0",
+  "description": "Balazs_Parducz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalazsParducz/SpringTab_Test_Backend.git"
+  },
+  "author": "Balazs Parducz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalazsParducz/SpringTab_Test_Backend/issues"
+  },
+  "homepage": "https://github.com/BalazsParducz/SpringTab_Test_Backend#readme"
+}
